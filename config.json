@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "showWindow": true,
+  "applyOnInit": true,
+  "showUnmappedVehicles": false,
+  "scanCandidatePriceFields": false,
+  "generateVanillaTweakFile": true,
+  "vanillaTweakFilePath": "../../../../../../r6/tweaks/VehiclePriceTuner/vehicle_price_tuner.yaml",
+  "vcdMultiplier": 1.0,
+  "vanillaMultiplier": 1.0,
+  "minPrice": 1000,
+  "roundTo": 500,
+  "overrides": {},
+  "manualVehicles": {},
+  "candidatePriceFields": [
+    "dealerPrice",
+    "price",
+    "purchasePrice",
+    "autofixerPrice",
+    "buyPrice"
+  ]
+}

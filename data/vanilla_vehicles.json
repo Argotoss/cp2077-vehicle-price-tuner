@@ -1,0 +1,394 @@
+{
+    "vehicles":  [
+                     {
+                         "id":  "VehicleOffer.villefort_columbus_offer",
+                         "name":  "Villefort v_standard25_villefort_columbus_player",
+                         "priceFlat":  "EconomicAssignment.v_standard25_villefort_columbus_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.villefort_cortes_offer",
+                         "name":  "Villefort v_standard2_villefort_cortes_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_villefort_cortes_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.villefort_alvarado_offer",
+                         "name":  "Villefort v_sport2_villefort_alvarado_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_villefort_alvarado_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_colby_offer",
+                         "name":  "Thorton v_standard2_thorton_colby_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_colby_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_colby_gt_offer",
+                         "name":  "Thorton v_standard2_thorton_colby_gt_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_colby_gt_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_galena_offer",
+                         "name":  "Thorton v_standard2_thorton_galena_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_galena_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_colby_pickup_offer",
+                         "name":  "Thorton v_standard2_thorton_colby_pickup_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_colby_pickup_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_galena_nomad_offer",
+                         "name":  "Thorton v_standard2_thorton_galena_nomad_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_galena_nomad_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_galena_gt_offer",
+                         "name":  "Thorton v_standard2_thorton_galena_gt",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_galena_gt.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_mackinaw_offer",
+                         "name":  "Thorton v_standard3_thorton_mackinaw_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_thorton_mackinaw_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_colby_pickup_nomad_offer",
+                         "name":  "Thorton v_standard25_thorton_colby_nomad_player",
+                         "priceFlat":  "EconomicAssignment.v_standard25_thorton_colby_nomad_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_turbo_r_offer",
+                         "name":  "Quadra v_sport1_quadra_turbo_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_quadra_turbo_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_avenger_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_avenger_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_avenger_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_1_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_nomad_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_nomad_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_nc_deathrace_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_nomad_ncu_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_nomad_ncu_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_base_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_base_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_base_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_gt_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_gt_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_gt_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_shion_offer",
+                         "name":  "Mizutani v_sport2_mizutani_shion_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_mizutani_shion_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_shion_nomad_offer",
+                         "name":  "Mizutani v_sport2_mizutani_shion_nomad_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_mizutani_shion_nomad_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_shion_targa_offer",
+                         "name":  "Mizutani v_sport2_mizutani_shion_targa",
+                         "priceFlat":  "EconomicAssignment.v_sport2_mizutani_shion_targa.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_shion_base_offer",
+                         "name":  "Mizutani v_sport2_mizutani_shion_base_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_mizutani_shion_base_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.rayfield_caliburn_offer",
+                         "name":  "Rayfield v_sport1_rayfield_caliburn_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_rayfield_caliburn_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.rayfield_aerondight_offer",
+                         "name":  "Rayfield v_sport1_rayfield_aerondight_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_rayfield_aerondight_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.brennan_apollo_offer",
+                         "name":  "Motorcycles v_sportbike3_brennan_apollo_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike3_brennan_apollo_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.arch_nemesis_offer",
+                         "name":  "Motorcycles v_sportbike2_arch_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike2_arch_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.yaiba_kusanagi_offer",
+                         "name":  "Motorcycles v_sportbike1_yaiba_kusanagi_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike1_yaiba_kusanagi_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.yaiba_muramasa_offer",
+                         "name":  "Motorcycles v_sportbike1_yaiba_muramasa_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike1_yaiba_muramasa_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.yaiba_semimaru_offer",
+                         "name":  "Other v_sport2_yaiba_semimaru_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_yaiba_semimaru_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.chevillon_thrax_offer",
+                         "name":  "Chevillion v_standard2_chevalier_thrax_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_chevalier_thrax_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.chevallion_emperor_police_offer",
+                         "name":  "Chevillion v_standard3_chevalier_emperor_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_chevalier_emperor_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.chevillion_legatus_offer",
+                         "name":  "Chevillion v_standard3_chevalier_legatus_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_chevalier_legatus_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.archer_quartz_offer",
+                         "name":  "Archer v_standard2_archer_quartz_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_archer_quartz_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.archer_quartz_base_offer",
+                         "name":  "Archer v_standard2_archer_quartz_base_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_archer_quartz_base_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.archer_quartz_bandit_offer",
+                         "name":  "Archer v_standard2_archer_bandit_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_archer_bandit_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.makigai_maimai_offer",
+                         "name":  "Makigai v_standard2_makigai_maimai_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_makigai_maimai_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mahir_supron_offer",
+                         "name":  "Mahir v_standard25_mahir_supron_player",
+                         "priceFlat":  "EconomicAssignment.v_standard25_mahir_supron_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mahir_supron_gt_offer",
+                         "name":  "Mahir v_standard25_mahir_supron_gt_player",
+                         "priceFlat":  "EconomicAssignment.v_standard25_mahir_supron_gt_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.herrera_outlaw_offer",
+                         "name":  "Herrera v_sport1_herrera_outlaw_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_herrera_outlaw_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.archer_quartz_nomad_02_offer",
+                         "name":  "Archer v_standard2_archer_quartz_nomad_02_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_archer_quartz_nomad_02_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.v_sport2_porsche_911turbo_cabrio_offer",
+                         "name":  "Other v_sport2_porsche_911turbo_cabrio_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_porsche_911turbo_cabrio_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.brennan_apollo_02_offer",
+                         "name":  "Motorcycles v_sportbike3_brennan_apollo_02_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike3_brennan_apollo_02_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.yaiba_kusanagi_02_offer",
+                         "name":  "Motorcycles v_sportbike1_yaiba_kusanagi_02_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike1_yaiba_kusanagi_02_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.yaiba_kusanagi_03_offer",
+                         "name":  "Motorcycles v_sportbike1_yaiba_kusanagi_03_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike1_yaiba_kusanagi_03_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.arch_nemesis_02_offer",
+                         "name":  "Motorcycles v_sportbike2_arch_02_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike2_arch_02_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.arch_nemesis_03_offer",
+                         "name":  "Motorcycles v_sportbike2_arch_03_player",
+                         "priceFlat":  "EconomicAssignment.v_sportbike2_arch_03_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_merrimac_offer",
+                         "name":  "Thorton v_standard25_thorton_merrimac_player",
+                         "priceFlat":  "EconomicAssignment.v_standard25_thorton_merrimac_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_hozuki_offer",
+                         "name":  "Mizutani v_standard2_mizutani_hozuki_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_mizutani_hozuki_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_hozuki_gt_offer",
+                         "name":  "Mizutani v_standard2_mizutani_hozuki_gt_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_mizutani_hozuki_gt_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.villefort_deleon_offer",
+                         "name":  "Villefort v_sport2_villefort_deleon_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_villefort_deleon_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.villefort_deleon_sport_offer",
+                         "name":  "Villefort v_sport2_villefort_deleon_sport_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_villefort_deleon_sport_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.herrera_riptide_offer",
+                         "name":  "Herrera v_sport1_herrera_riptide_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_herrera_riptide_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_sport_r_7_offer",
+                         "name":  "Quadra v_sport1_quadra_sport_r7_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_quadra_sport_r7_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_sport_r_7_02_offer",
+                         "name":  "Quadra v_sport1_quadra_sport_r7_02_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_quadra_sport_r7_02_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.militech_hellhound_offer",
+                         "name":  "Other v_standard3_militech_hellhound_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_militech_hellhound_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.makigai_tanishi_offer",
+                         "name":  "Makigai v_standard3_makigai_tanishi_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_makigai_tanishi_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.alvarado_hearse_combi_offer",
+                         "name":  "Villefort v_sport2_villefort_alvarado_hearse_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_villefort_alvarado_hearse_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.kurtz_men_military_supron_offer",
+                         "name":  "Mahir v_standard3_mahir_supron_kurtz_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_mahir_supron_kurtz_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.kurtz_men_military_colby_offer",
+                         "name":  "Thorton v_standard3_thorton_colby_pickup_kurtz_player",
+                         "priceFlat":  "EconomicAssignment.v_standard3_thorton_colby_pickup_kurtz_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.archer_quartz_nomad_offer",
+                         "name":  "Archer v_standard2_archer_quartz_nomad_player",
+                         "priceFlat":  "EconomicAssignment.v_standard2_archer_quartz_nomad_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_colby_nomad_missiles_offer",
+                         "name":  "Thorton v_standard25_thorton_colby_nomad_player_missiles",
+                         "priceFlat":  "EconomicAssignment.v_standard25_thorton_colby_nomad_player_missiles.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.thorton_galena_nomad_missiles_offer",
+                         "name":  "Thorton v_standard2_thorton_galena_nomad_player_missiles",
+                         "priceFlat":  "EconomicAssignment.v_standard2_thorton_galena_nomad_player_missiles.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.mizutani_shion_nomad_missiles_offer",
+                         "name":  "Mizutani v_sport2_mizutani_shion_nomad_player_missiles",
+                         "priceFlat":  "EconomicAssignment.v_sport2_mizutani_shion_nomad_player_missiles.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.quadra_type_66_nomad_03_offer",
+                         "name":  "Quadra v_sport2_quadra_type66_nomad_03_player",
+                         "priceFlat":  "EconomicAssignment.v_sport2_quadra_type66_nomad_03_player.overrideValue",
+                         "source":  "AutoFixer"
+                     },
+                     {
+                         "id":  "VehicleOffer.herrera_outlaw_courier_outro_failed_offer",
+                         "name":  "Herrera v_sport1_herrera_outlaw_heist_player",
+                         "priceFlat":  "EconomicAssignment.v_sport1_herrera_outlaw_heist_player.overrideValue",
+                         "source":  "AutoFixer"
+                     }
+                 ]
+}
